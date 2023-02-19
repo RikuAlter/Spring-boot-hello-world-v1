@@ -9,6 +9,8 @@ Topics covered in this project:
 5. Profiling
 6. Configuration Properties
 7. Actuator
+8. Components
+9. Request Mapping
 
 
 ## Controllers:
