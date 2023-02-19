@@ -9,3 +9,15 @@ Topics covered in this project:
 5. Profiling
 6. Configuration Properties
 7. Actuator
+
+
+## Controllers:
+1. User Controller: to get the list of all users(pre-defined)
+2. Region Configuaration Controller: to get the region specific details based on the active profile
+
+## DTOs:
+1. User
+
+## Environment profiles:
+1. Dev under application-dev
+2. Prod under application-prod
